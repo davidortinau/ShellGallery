@@ -473,4 +473,7 @@
   <ItemGroup>
     <BundleResource Include="Resources\3bar.png" />
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\xamarinstore.jpg" />
+  </ItemGroup>
 </Project>

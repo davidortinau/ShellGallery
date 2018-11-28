@@ -5,8 +5,7 @@
 				HeightRequest="200">
 	<ContentView.Content>
 		<Grid BackgroundColor="Black">
-			<Image Aspect="AspectFill" Source="xamarinstore.jpg" Opacity="0.6" />
-			<Label Margin="0, 40, 0, 0" Text="Hello XamStore" TextColor="White" FontAttributes="Bold" VerticalTextAlignment="Center" />
+			<Image Aspect="AspectFill" Source="xamarinstore.jpg" />			
 		</Grid>
 	</ContentView.Content>
 </ContentView>
