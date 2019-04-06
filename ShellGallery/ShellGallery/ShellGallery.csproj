@@ -10,12 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Xamarin.Forms" Version="4.0.0.8055-pre1" />
+    <PackageReference Include="Xamarin.Forms" Version="4.0.0.304370-pre8" />
   </ItemGroup>
 
-  <ItemGroup>
-    <EmbeddedResource Update="ShellContent.xaml">
-      <Generator>MSBuild:Compile</Generator>
-    </EmbeddedResource>
-  </ItemGroup>
 </Project>

@@ -149,12 +149,12 @@
     <Reference Include="Xamarin.iOS" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Xamarin.Forms" Version="4.0.0.8055-pre1" />
+    <PackageReference Include="Xamarin.Forms" Version="4.0.0.304370-pre8" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
     <ProjectReference Include="..\ShellGallery\ShellGallery.csproj">
-      <Project>{9551892E-F9C2-4DBE-8638-5B3D2463C38A}</Project>
+      <Project>{147A98DF-98B5-4AEC-85D5-EE6FB662AEA8}</Project>
       <Name>ShellGallery</Name>
     </ProjectReference>
   </ItemGroup>
